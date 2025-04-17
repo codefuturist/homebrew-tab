@@ -6,7 +6,7 @@ class Pwgn < Formula
   homepage "https://github.com/codefuturist/monorepo-public"
   url "https://drive.proton.me/urls/G7KG2PYNCC#e4hbQbloUeuI"
   sha256 "5e8349c9bbaec8dbd2b48f61287f804362b4ffe5556b22bb0b5f78e613bdc0b0"
-  version: "0.0.1"
+  version "0.0.1"
   license ""
 
   # depends_on "cmake" => :build
