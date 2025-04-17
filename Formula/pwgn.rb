@@ -6,7 +6,8 @@ class Pwgn < Formula
   homepage "https://github.com/codefuturist/monorepo-public"
   # url "https://drive.proton.me/urls/G7KG2PYNCC#e4hbQbloUeuI"
   url "https://github.com/codefuturist/monorepo-public/releases/download/pwgn-0.0.1/pwgn-0.0.1.tar.gz"
-  sha256 "46015ab6d2b1794767aae57e39e5fa79a4dccf6f7c3e855ec1572a363272dc91"
+  # sha256 "46015ab6d2b1794767aae57e39e5fa79a4dccf6f7c3e855ec1572a363272dc91"
+  sha256 "5e8349c9bbaec8dbd2b48f61287f804362b4ffe5556b22bb0b5f78e613bdc0b0"
   version "0.0.1"
   license ""
 
