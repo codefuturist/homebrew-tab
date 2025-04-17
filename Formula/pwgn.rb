@@ -4,7 +4,8 @@
 class Pwgn < Formula
   desc ""
   homepage "https://github.com/codefuturist/monorepo-public"
-  url "https://github.com/codefuturist/monorepo-public/releases/download/pwgn-0.0.1/pwgn-0.0.1.tar.gz"
+  # url "https://github.com/codefuturist/monorepo-public/releases/download/pwgn-0.0.1/pwgn-0.0.1.tar.gz"
+  url "https://github.com/codefuturist/monorepo-public/releases/download/pwgn-0.0.2/pwgn-0.0.2.tar.gz"
   # url "https://drive.proton.me/urls/G7KG2PYNCC#e4hbQbloUeuI"
   # url "https://github.com/codefuturist/monorepo-public/releases/download/pwgn-0.0.1/pwgn-0.0.1.tar.gz"
   # url "https://github.com/codefuturist/monorepo-public/archive/refs/tags/pwgn-0.0.1.tar.gz"
@@ -13,8 +14,9 @@ class Pwgn < Formula
   # sha256 "5e8349c9bbaec8dbd2b48f61287f804362b4ffe5556b22bb0b5f78e613bdc0b0"
   # sha256 "9bda1fb6a11a317be41719fb99c455c78e4c83967f08c5b263a4bd074aaf8e9f"
   # sha256 "3739b850316531b5265589c8d2411bdb10d77674f3a4863278f1cd8be00e04df"
-  sha256 "21ebfe7bf04eca6d01b0a5e3dbd2423525dc0c78c7fb6c01a5ae84d62db225c3"
-  version "0.0.1"
+  # sha256 "21ebfe7bf04eca6d01b0a5e3dbd2423525dc0c78c7fb6c01a5ae84d62db225c3"
+  sha256 "74e3bbe999f06a5f744d4b8135487fdeee6f6fecbe3e7e045cf8e8c526472979"
+  version "0.0.2"
   license ""
 
   # depends_on "cmake" => :build
